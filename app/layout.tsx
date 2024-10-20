@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "My first NextJS App",
-  description: "Modern Look and Fresh UI/UX ",
+  title: "JCODE",
+  description: "My portfolio",
 };
 
 export default function RootLayout({

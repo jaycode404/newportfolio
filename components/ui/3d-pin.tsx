@@ -122,7 +122,7 @@ export const PinPerspective = ({
                 opacity: [0, 1, 0.5, 0],
                 scale: 1,
 
-                z: 0,
+                
               }}
               transition={{
                 duration: 6,
