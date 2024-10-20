@@ -3,7 +3,6 @@ import React from "react";
 
 import { AnimatePresence, motion } from "framer-motion";
 import { CanvasRevealEffect } from "@/components/ui/CanvasRevealEffect";
-import { div } from "framer-motion/client";
 
 const Process = () => {
   return (
@@ -110,6 +109,7 @@ const AceternityIcon = ({ order }: { order: string }) => {
   );
 };
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 export const Icon = ({ className, ...rest }: any) => {
   return (
     <svg

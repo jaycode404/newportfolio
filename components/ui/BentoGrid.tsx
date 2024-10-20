@@ -3,8 +3,6 @@ import { useState } from "react";
 import { cn } from "@/utils/cn";
 import { BackgroundGradientAnimation } from "./GradiantBg";
 import { GlobeDemo } from "./GridGlobe";
-import { span } from "framer-motion/client";
-import { animate } from "framer-motion";
 import animationData from "@/data/confetti.json";
 import Lottie from "react-lottie";
 import MagicButton from "./MagicButton";
@@ -38,8 +36,7 @@ export const BentoGridItem = ({
   imgClassName,
   titleClassName,
   spareImg,
-  header,
-  icon,
+  
 }: {
   className?: string;
   title?: string | React.ReactNode;
