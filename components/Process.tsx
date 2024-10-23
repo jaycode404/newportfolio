@@ -9,9 +9,9 @@ const Process = () => {
     <section className="w-full py-20">
       <h1 className="heading">
         {" "}
-        My{" "}
+        El{" "}
         <span className="bg-gradient-to-r from-green-500 to-blue-500 bg-clip-text text-transparent">
-          process
+          proceso
         </span>
       </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center  gap-4">
@@ -21,7 +21,7 @@ const Process = () => {
             containerClassName="bg-emerald-900"
           />
         </Card>
-        <Card title="Nisha is Munni" icon={<AceternityIcon order="Fase 2" />} description='Analizar los requerimientos del cliente'>
+        <Card title="Construcción" icon={<AceternityIcon order="Fase 2" />} description='Traer a la realidad la idea'>
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-black"
@@ -34,7 +34,7 @@ const Process = () => {
           {/* Radial gradient for the cute fade */}
           <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" />
         </Card>
-        <Card title="Munni is Aditi" icon={<AceternityIcon order="Fase 3" />} description='Analizar los requerimientos del cliente'>
+        <Card title="Entrega!" icon={<AceternityIcon order="Fase 3" />} description='Traer al mundo Web nuestro proyecto'>
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-sky-600"
