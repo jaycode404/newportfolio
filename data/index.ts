@@ -78,7 +78,7 @@ export const projects = [
     des: "Aumenta tus ventas con pagina web y app incluida para reservación de citas.",
     img: "/p1.webp",
     iconLists: ["/re.svg", "/tail.svg"],
-    link: "https://github.com",
+    link: "https://www.salonapp.lat/",
   },
   {
     id: 2,
@@ -86,7 +86,7 @@ export const projects = [
     des: "App Web para administración de propiedades, empleados o cualquier campo que necesites",
     img: "/p2.webp",
     iconLists: ["/re.svg", "/tail.svg"],
-    link: "https://github.com",
+    link: "https://www.mispropiedades.lat/",
   },
   {
     id: 3,
@@ -94,7 +94,7 @@ export const projects = [
     des: "Interfaz moderna, completa y con ChatBot para ahorrar tiempo y aumentar ventas",
     img: "/p3.webp",
     iconLists: ["/re.svg", "/tail.svg"],
-    link: "https://github.com/",
+    link: "https://burger-landing-ten.vercel.app/",
   },
   {
     id: 4,
@@ -102,7 +102,7 @@ export const projects = [
     des: "Sitio para veterinaria con chat de WhatsApp con diseño personalizada.",
     img: "/p4.webp",
     iconLists: ["/re.svg", "/tail.svg"],
-    link: "https://github.com",
+    link: "https://apaloosa.vercel.app/",
   },
 ];
 
